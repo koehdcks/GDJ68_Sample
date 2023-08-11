@@ -7,5 +7,7 @@
 	<typeAliases>
 		<typeAlias type="com.iu.winter.board.notice.NoticeDTO" alias="NoticeDTO"/>
 		<typeAlias type="com.iu.winter.board.notice.NoticeFileDTO" alias="NoticeFileDTO"/>
+	  <typeAlias type="com.iu.winter.board.qna.QnaDTO" alias="QnaDTO"
+  	<typeAlias type="com.iu.winter.bankBookDTO" alias="bankBookDTO"/>
 	</typeAliases>
 </configuration>
