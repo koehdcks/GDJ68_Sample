@@ -5,4 +5,9 @@
 	
 <configuration>
 	<typeAlias type="com.iu.winter.board.qna.QnaDTO" alias="QnaDTO"
+	<typeAliases>
+	
+	<typeAlias type="com.iu.winter.bankBookDTO" alias="bankBookDTO"/>
+	
+	</typeAliases>
 </configuration>
